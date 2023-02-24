@@ -39,3 +39,4 @@ jobs:
       with:
         name: SkyTube-Extra.apk
         path: app/build/outputs/apk/extra/snapshot/SkyTube-Extra-*.apk
+#run
